@@ -6,4 +6,4 @@ local serv = win:Server("Blox Fruits", "http://www.roblox.com/asset/?id=69791291
 
 local tgls = serv:Channel("[!] SeeMe")
 
-tgls:Label("อัพเดคนิดหน่อยกับเเก้บัค")
+tgls:Label("อัพเดตเเก้บัคไอควาย", true)
