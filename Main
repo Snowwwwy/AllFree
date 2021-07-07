@@ -7,6 +7,9 @@ if game.PlaceId == 1962086868 then
            loadstring(game:HttpGet("https://raw.githubusercontent.com/Snowwwwy/SlayerUnleashed/main/SlayerUnleash.lua"))()
             elseif game.PlaceId == 6536671967 then
              loadstring(game:HttpGet("https://raw.githubusercontent.com/Snowwwwy/DrivingEm/main/DrivingEn.lua"))()
+               elseif game.PlaceId == 4442272183 then
+                  loadstring(game:HttpGet("https://raw.githubusercontent.com/Snowwwwy/BloxFruitsLon/main/BloxFruitsLonBoss.lua"))()
+
            else
             game.Players.LocalPlayer:Kick("Not Support :>")
 end
