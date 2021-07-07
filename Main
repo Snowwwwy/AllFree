@@ -7,3 +7,7 @@ local serv = win:Server("Blox Fruits", "http://www.roblox.com/asset/?id=69791291
 local tgls = serv:Channel("[!] SeeMe")
 
 tgls:Label("อัพเดตเเก้บัคไอควาย", true)
+
+tgls:Label("--เเก้บัครวบมอนตีไม่เข้า", true)
+
+tgls:Label("++ฟาร์มไวกว่าเดิม", true)
