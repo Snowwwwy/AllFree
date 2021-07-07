@@ -1,1 +1,9 @@
-                   game.Players.localPlayer:Kick("เเก้บัคกับอัพเดตนิดหน่อย")
+local DiscordLib = loadstring(game:HttpGet"https://raw.githubusercontent.com/ExEHub/DrosxyHub/main/GUI")()
+
+local win = DiscordLib:Window("S N O W W W Y │ P A I D S C R I P T","")
+
+local serv = win:Server("Blox Fruits", "http://www.roblox.com/asset/?id=6979129166")
+
+local tgls = serv:Channel("[!] SeeMe")
+
+tgls:Label("อัพเดคนิดหน่อยกับเเก้บัค")
