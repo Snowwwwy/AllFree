@@ -1,1 +1,1 @@
-game:Player:LocalPlayer:Kick("อัพเดค + เเก้บัค")
+ game.Players.localPlayer:Kick("อัพเดต+เเก้บัคไอสัส")
