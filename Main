@@ -4,9 +4,9 @@ if game.PlaceId == 2753915549 then
         elseif game.PlaceId == 4442272183 then
      loadstring(game:HttpGet("https://raw.githubusercontent.com/Snowwwwy/BloxFruitsLon/main/BloxFruitsLonBoss.lua"))()
     elseif game.PlaceId == 6536647319 then
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/Snowwwwy/SlayerUnleashed/main/SlayerUnleash.lua"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Snowwwwy/NewSlayer/main/Slayer2077.lua"))()
             elseif game.PlaceId == 6536671967 then
-              loadstring(game:HttpGet("https://raw.githubusercontent.com/Snowwwwy/SlayerUnleashed/main/SlayerUnleash.lua"))()
+              loadstring(game:HttpGet("https://raw.githubusercontent.com/Snowwwwy/NewSlayer/main/Slayer2077.lua"))()
           elseif game.PlaceId == 3351674303 then
            loadstring(game:HttpGet("https://raw.githubusercontent.com/Snowwwwy/DrivingEm/main/DrivingEn.lua"))()
             elseif game.PlaceId == 1962086868 then
