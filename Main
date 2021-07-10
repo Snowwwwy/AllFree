@@ -14,7 +14,7 @@ if game.PlaceId == 2753915549 then
              elseif game.PlaceId == 292439477 then
               loadstring(game:HttpGet("https://raw.githubusercontent.com/Snowwwwy/SnowwyPhantom/main/SnowHubPhantomForce.lua"))()
               elseif game.PlaceId == 4996049426 then
-              loadstring(game:HttpGet("https://raw.githubusercontent.com/Snowwwwy/ASTD/main/ASTD.lua"))()
+              loadstring(game:HttpGet("https://raw.githubusercontent.com/Snowwwwy/ASTDV2/main/ASTDV2.lua"))()
            else
             game.Players.LocalPlayer:Kick("ไม่รองรับเกมนี้ไอควาย")
 end
