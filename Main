@@ -13,10 +13,8 @@ if game.PlaceId == 2753915549 then
              loadstring(game:HttpGet("https://raw.githubusercontent.com/Snowwwwy/SnowHubTowerOfHell/main/SnowwwyTower.lua"))()
              elseif game.PlaceId == 292439477 then
               loadstring(game:HttpGet("https://raw.githubusercontent.com/Snowwwwy/SnowwyPhantom/main/SnowHubPhantomForce.lua"))()
-              elseif game.PlaceId == 4996049426 then
-              loadstring(game:HttpGet("https://raw.githubusercontent.com/Snowwwwy/ASTDV2/main/ASTDV2.lua"))()
-              elseif game.PlaceId == 1120164963 then 
-               loadstring(game:HttpGet("https://raw.githubusercontent.com/Snowwwwy/ASTDV2/main/ASTDV2.lua"))()
+              elseif game.PlaceId == 286090429 then
+               loadstring(game:HttpGet("https://raw.githubusercontent.com/Snowwwwy/Arsenal2077/main/Arsenal2077.lua"))()
            else
             game.Players.LocalPlayer:Kick("ไม่รองรับเกมนี้ไอควาย")
 end
